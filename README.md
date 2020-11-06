@@ -1,4 +1,4 @@
-## Hello guys, I'm Paulo Martins 😎
+## Hello guys, I'm Paulo Martins 🤩
 Some information about me :
 
 - 👨‍💻 Systems Analyst | Java developer
